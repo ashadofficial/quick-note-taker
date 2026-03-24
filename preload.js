@@ -1,0 +1,1 @@
+deleteNote: () => ipcRenderer.invoke('delete-note')
